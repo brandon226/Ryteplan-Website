@@ -24,7 +24,8 @@ export default function Index() {
               </h1>
 
               <p className="text-lg text-muted-foreground mb-8 max-w-md leading-relaxed">
-                Discover and explore the perfect college for your future with our comprehensive database of 1,400+ schools and intelligent planning tools.
+                Check
+                <br />
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 mb-8">
