@@ -18,7 +18,9 @@ export default function Index() {
               </div>
 
               <h1 className="text-5xl lg:text-6xl font-display font-bold text-foreground leading-tight mb-6">
-                Plan Your College <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Journey</span>
+                Hello world
+                <br />
+                <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Journey</span>
               </h1>
 
               <p className="text-lg text-muted-foreground mb-8 max-w-md leading-relaxed">
